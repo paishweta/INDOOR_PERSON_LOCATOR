@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560219712577",
+    "firebase_url": "https://indoor-navigation-new-866e0-default-rtdb.firebaseio.com",
+    "project_id": "indoor-navigation-new-866e0",
+    "storage_bucket": "indoor-navigation-new-866e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560219712577:android:93d2f6f43af0267aef2ac0",
+        "android_client_info": {
+          "package_name": "com.example.indoor_navigation_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560219712577-lu2q3uq1jjfg40jd1kli0ao1qkmpfsaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShJ_ANOM6TnMc7G7_B56PGj-qZrmPC3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560219712577-lu2q3uq1jjfg40jd1kli0ao1qkmpfsaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
